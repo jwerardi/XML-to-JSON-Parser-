@@ -1,0 +1,112 @@
+{
+"person"   :
+{
+"firstName":   "John",
+"lastName":   "Smith",
+"age":   "25"
+},
+"addresss"   :
+{
+"streetAddress":   "21 2nd Street",
+"city":   "New York",
+"state":   "NY",
+"postalCode":   "10021"
+},
+"meme"   :
+{
+"streetAddress":   "22nd Meme Street",
+"city":   "New Meme",
+"state":   "ME",
+"postalCode":   "42000"
+},
+"hussain"   :
+{
+"streetAddress":   "23rd Meme Street",
+"city":   "Lowell",
+"state":   "MA",
+"postalCode":   "01850"
+},
+"tyler"   :
+{
+"streetAddress":   "24th Meme Street",
+"city":   "Middleton",
+"state":   "MA",
+"postalCode":   "01949"
+},
+"alpal"   :
+{
+"streetAddress":   "25th Meme Street",
+"city":   "Lowell",
+"state":   "MA"
+},
+"Alex":   
+{
+"type": "human", 
+"content": "He loves Asap Rocky"
+},
+"Hussain":   
+{
+"type": "human", 
+"content": "It's his birthday today"
+},
+"Tyler":   
+{
+"type": "human", 
+"content": "Hes will be on the news in London for a very silly video"
+},
+"Jesse":   
+{
+"type": "human", 
+"content": "He loves The Beatles"
+},
+"Dave":   
+{
+"type": "human", 
+"content": "He runs marathons better than he teaches Calc 2"
+},
+"phoneNumber":   
+{
+"number": "54", 
+"content": "646 555-4567",
+"quality": "good", 
+"content": "646 555-4567",
+"type": "phone", 
+"content": "646 555-4567"
+},
+"MemeNumber":   
+{
+"number": "54", 
+"content": "646 555-4567",
+"quality": "good", 
+"content": "646 555-4567",
+"type": "fax", 
+"content": "646 555-4567"
+},
+"CellNumber":   
+{
+"number": "2", 
+"content": "646 555-4567",
+"quality": "alright", 
+"content": "646 555-4567",
+"type": "cell", 
+"content": "646 555-4567"
+},
+"FaxNumber":   
+{
+"number": "1", 
+"content": "646 555-4567",
+"quality": "decent", 
+"content": "646 555-4567",
+"type": "fax", 
+"content": "646 555-4567"
+},
+"ScannerNumber":   
+{
+"number": "1", 
+"content": "646 555-4567",
+"quality": "baaaaaaaad", 
+"content": "646 555-4567",
+"type": "scanner", 
+"content": "646 555-4567"
+}
+}

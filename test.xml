@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+  <firstName>John</firstName>
+  <lastName>Smith</lastName>
+  <age>25</age>
+  <addresss>
+    <streetAddress>21 2nd Street</streetAddress>
+    <city>New York</city>
+    <state>NY</state>
+    <postalCode>10021</postalCode>
+  </addresss>
+  <meme>
+    <streetAddress>22nd Meme Street</streetAddress>
+    <city>New Meme</city>
+    <state>ME</state>
+    <postalCode>42000</postalCode>
+  </meme>
+  <hussain>
+    <streetAddress>23rd Meme Street</streetAddress>
+    <city>Lowell</city>
+    <state>MA</state>
+    <postalCode>01850</postalCode>
+  </hussain>
+  <tyler>
+    <streetAddress>24th Meme Street</streetAddress>
+    <city>Middleton</city>
+    <state>MA</state>
+    <postalCode>01949</postalCode>
+  </tyler>
+  <alpal>
+    <streetAddress>25th Meme Street</streetAddress>
+    <city>Lowell</city>
+    <state>MA</state>
+  </alpal>
+  <Alex type="human">He loves Asap Rocky</Alex>
+  <Hussain type="human">It's his birthday today</Hussain>
+  <Tyler type="human">Hes will be on the news in London for a very silly video</Tyler>
+  <Jesse type="human">He loves The Beatles</Jesse>
+  <Dave type="human">He runs marathons better than he teaches Calc 2</Dave>
+  <phoneNumber type="phone" number="54" quality="good">646 555-4567</phoneNumber>
+  <MemeNumber type="fax" number="54" quality="good">646 555-4567</MemeNumber>
+  <CellNumber type="cell" number="2" quality="alright">646 555-4567</CellNumber>
+  <FaxNumber type="fax" number="1" quality="decent">646 555-4567</FaxNumber>
+  <ScannerNumber type="scanner" number="1" quality="baaaaaaaad">646 555-4567</ScannerNumber>
+</person>

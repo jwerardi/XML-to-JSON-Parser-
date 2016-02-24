@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Death Grips: "Up My Sleeves"
+James Walter Erardi, jerardi@cs.uml.edu
+September 25th, 2015
+source: https://musicbrainz.org/ws/2/recording/88ad4a6f-8615-4e17-8f85-f63576e09dda?inc=aliases%2Bartist-credits%2Breleases
+-->
+<song-library>
+  <metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+    <recording id="88ad4a6f-8615-4e17-8f85-f63576e09dda">
+      <title>Up My Sleeves</title>
+      <length>317000</length>
+      <artist-credit>
+        <name-credit>
+          <artist id="f9133036-ab3d-4e97-bd11-7a2c98ad148a">
+            <name>Death Grips</name>
+            <sort-name>Death Grips</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-list count="5">
+        <release id="0647901e-6c21-412b-9d12-c8cb451af822">
+          <title>The Powers That B</title>
+          <status>Official</status>
+          <quality>normal</quality>
+          <packaging>Digipak</packaging>
+          <text-representation>
+            <language>eng</language>
+            <script>Latn</script>
+          </text-representation>
+          <artist-credit>
+            <name-credit>
+              <artist id="f9133036-ab3d-4e97-bd11-7a2c98ad148a">
+                <name>Death Grips</name>
+                <sort-name>Death Grips</sort-name>
+              </artist>
+            </name-credit>
+          </artist-credit>
+          <date>2015-03-31</date>
+          <country>US</country>
+          <release-event-list count="1">
+            <release-event>
+              <date>2015-03-31</date>
+              <area id="489ce91b-6658-3307-9877-795b68554c98">
+                <name>United States</name>
+                <sort-name>United States</sort-name>
+                <iso-3166-1-code-list>
+                  <iso-3166-1-code>US</iso-3166-1-code>
+                </iso-3166-1-code-list>
+              </area>
+            </release-event>
+          </release-event-list>
+          <barcode>602547120083</barcode>
+        </release>
+        <release id="61574244-a701-4158-8271-7898acb12e9e">
+          <title>The Powers That B</title>
+          <status>Official</status>
+          <quality>normal</quality>
+          <packaging>None</packaging>
+          <text-representation>
+            <language>eng</language>
+            <script>Latn</script>
+          </text-representation>
+          <artist-credit>
+            <name-credit>
+              <artist id="f9133036-ab3d-4e97-bd11-7a2c98ad148a">
+                <name>Death Grips</name>
+                <sort-name>Death Grips</sort-name>
+              </artist>
+            </name-credit>
+          </artist-credit>
+          <date>2015-03-31</date>
+          <country>CA</country>
+          <release-event-list count="3">
+            <release-event>
+              <date>2015-03-31</date>
+              <area id="71bbafaa-e825-3e15-8ca9-017dcad1748b">
+                <name>Canada</name>
+                <sort-name>Canada</sort-name>
+                <iso-3166-1-code-list>
+                  <iso-3166-1-code>CA</iso-3166-1-code>
+                </iso-3166-1-code-list>
+              </area>
+            </release-event>
+            <release-event>
+              <date>2015-03-31</date>
+              <area id="3e08b2cd-69f3-317c-b1e4-e71be581839e">
+                <name>Mexico</name>
+                <sort-name>Mexico</sort-name>
+                <iso-3166-1-code-list>
+                  <iso-3166-1-code>MX</iso-3166-1-code>
+                </iso-3166-1-code-list>
+              </area>
+            </release-event>
+            <release-event>
+              <date>2015-03-31</date>
+              <area id="489ce91b-6658-3307-9877-795b68554c98">
+                <name>United States</name>
+                <sort-name>United States</sort-name>
+                <iso-3166-1-code-list>
+                  <iso-3166-1-code>US</iso-3166-1-code>
+                </iso-3166-1-code-list>
+              </area>
+            </release-event>
+          </release-event-list>
+          <barcode>602547120069</barcode>
+        </release>
+        <release id="8e65b9de-3b2b-489a-8182-ec4b261faa64">
+          <title>Ninjas on the Moon</title>
+          <status>Official</status>
+          <quality>normal</quality>
+          <packaging>None</packaging>
+          <text-representation>
+            <language>eng</language>
+            <script>Latn</script>
+          </text-representation>
+          <artist-credit>
+            <name-credit>
+              <artist id="f9133036-ab3d-4e97-bd11-7a2c98ad148a">
+                <name>Death Grips</name>
+                <sort-name>Death Grips</sort-name>
+              </artist>
+            </name-credit>
+          </artist-credit>
+          <date>2014-06-08</date>
+          <country>XW</country>
+          <release-event-list count="1">
+            <release-event>
+              <date>2014-06-08</date>
+              <area id="525d4e18-3d00-31b9-a58b-a146a916de8f">
+                <name>[Worldwide]</name>
+                <sort-name>[Worldwide]</sort-name>
+                <iso-3166-1-code-list>
+                  <iso-3166-1-code>XW</iso-3166-1-code>
+                </iso-3166-1-code-list>
+              </area>
+            </release-event>
+          </release-event-list>
+          <barcode />
+        </release>
+        <release id="dd51a819-8f48-4c05-a83e-a62089118f18">
+          <title>The Powers That B</title>
+          <status>Official</status>
+          <quality>normal</quality>
+          <packaging>Gatefold Cover</packaging>
+          <text-representation>
+            <language>eng</language>
+            <script>Latn</script>
+          </text-representation>
+          <artist-credit>
+            <name-credit>
+              <artist id="f9133036-ab3d-4e97-bd11-7a2c98ad148a">
+                <name>Death Grips</name>
+                <sort-name>Death Grips</sort-name>
+              </artist>
+            </name-credit>
+          </artist-credit>
+          <date>2015-03-31</date>
+          <country>US</country>
+          <release-event-list count="1">
+            <release-event>
+              <date>2015-03-31</date>
+              <area id="489ce91b-6658-3307-9877-795b68554c98">
+                <name>United States</name>
+                <sort-name>United States</sort-name>
+                <iso-3166-1-code-list>
+                  <iso-3166-1-code>US</iso-3166-1-code>
+                </iso-3166-1-code-list>
+              </area>
+            </release-event>
+          </release-event-list>
+          <barcode>602547120090</barcode>
+        </release>
+        <release id="edf66db5-d4ee-499c-8bf2-a5576f4fc02b">
+          <title>The Powers That B</title>
+          <status>Official</status>
+          <quality>normal</quality>
+          <packaging>None</packaging>
+          <text-representation>
+            <language>eng</language>
+            <script>Latn</script>
+          </text-representation>
+          <artist-credit>
+            <name-credit>
+              <artist id="f9133036-ab3d-4e97-bd11-7a2c98ad148a">
+                <name>Death Grips</name>
+                <sort-name>Death Grips</sort-name>
+              </artist>
+            </name-credit>
+          </artist-credit>
+          <date>2015-03-27</date>
+          <country>XE</country>
+          <release-event-list count="1">
+            <release-event>
+              <date>2015-03-27</date>
+              <area id="89a675c2-3e37-3518-b83c-418bad59a85a">
+                <name>Europe</name>
+                <sort-name>Europe</sort-name>
+                <iso-3166-1-code-list>
+                  <iso-3166-1-code>XE</iso-3166-1-code>
+                </iso-3166-1-code-list>
+              </area>
+            </release-event>
+          </release-event-list>
+          <barcode>602547120069</barcode>
+        </release>
+      </release-list>
+    </recording>
+  </metadata>
+</song-library>
